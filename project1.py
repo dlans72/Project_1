@@ -1,2 +1,2 @@
-print("Hai, ini adalah test untuk dipush ke github")
-print("test ke2")
+print("test")
+print("apakek")
